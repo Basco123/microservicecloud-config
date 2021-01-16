@@ -10,5 +10,5 @@ spring:
 ---
 spring:
   profiles: test
-    application:
+  application:
       name: mircoservicecloud-config-basco-test
